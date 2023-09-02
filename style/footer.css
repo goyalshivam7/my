@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+.footerbg {
+    background-color: #eaf7fd;
+}
+
+.footerHeading {
+    font-family: 'Noto Sans JP', sans-serif;
+}
+
+.footerText {
+    font-family: 'Roboto', sans-serif;
+    color: #616161;
+}
+
+.footerText a {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: #616161;
+}
+
+.iconStyle i {
+    color: black;
+}
+
+.iconStyle :hover {
+    color: rgb(55, 12, 245);
+}
+
+.iconStyle {
+    border-bottom: 1px solid grey;
+}
